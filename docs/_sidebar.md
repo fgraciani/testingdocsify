@@ -2,6 +2,8 @@
   - [Overview](basics/overview.md)
     - [Sub Topic](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
+- Encoding
+  - [Overview](basics/overview.md)
 - Intermediate
   - [Topic 1](intermediate/topics-1.md)
   - [Topic 2](intermediate/topics-2.md)
