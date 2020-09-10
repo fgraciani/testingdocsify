@@ -2,10 +2,17 @@
   - [Overview](basics/overview.md)
     - [Sub Topic](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
+- FIXM Components
+  - [FIXM Core](understanding/Understanding-FIXM-Core.md)
+  - [FIXM Applications](understanding/Understanding-FIXM-Applications.md)
+  - [FIXM Extensions](understanding/Understanding-FIXM-Extensions.md)
+- FF-ICE
+  - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
+  - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
 - Encoding
   - [Contact Information](encoding/Encoding-Contact-Information.md)
-    - [Postal Address](encoding/Encoding-Contact-Information.md#postal_address)
-    - [Telephone Contact](encoding/Encoding-Contact-Information.md#telephone_contact)
+  - [Date Time](encoding/Encoding-Date-Time.md)
+  - [Relative Points](encoding/Encoding-Relative-Points.md)
 - Intermediate
   - [Topic 1](intermediate/topics-1.md)
   - [Topic 2](intermediate/topics-2.md)
