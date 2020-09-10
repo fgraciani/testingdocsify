@@ -3,8 +3,9 @@
     - [Sub Topic](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
 - Encoding
-  - [Contact Information](basics/Encoding-Contact-Information.md)
-    - [TelephoneContact](basics/Encoding-Contact-Information.md#Telephone Contact)
+  - [Contact Information](encoding/Encoding-Contact-Information.md)
+    - [Postal Address](encoding/Encoding-Contact-Information.md#postal_address)
+    - [Telephone Contact](encoding/Encoding-Contact-Information.md#postal_address)
 - Intermediate
   - [Topic 1](intermediate/topics-1.md)
   - [Topic 2](intermediate/topics-2.md)
