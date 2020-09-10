@@ -5,7 +5,7 @@
 - Encoding
   - [Contact Information](encoding/Encoding-Contact-Information.md)
     - [Postal Address](encoding/Encoding-Contact-Information.md#postal_address)
-    - [Telephone Contact](encoding/Encoding-Contact-Information.md#postal_address)
+    - [Telephone Contact](encoding/Encoding-Contact-Information.md#telephone_contact)
 - Intermediate
   - [Topic 1](intermediate/topics-1.md)
   - [Topic 2](intermediate/topics-2.md)
