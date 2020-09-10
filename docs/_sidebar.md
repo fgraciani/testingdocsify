@@ -10,4 +10,4 @@
   - [Date Time](encoding/Encoding-Date-Time.md)
   - [Relative Points](encoding/Encoding-Relative-Points.md)
 - **Project Documentation**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+  - [ReadMe](https://github.com/fgraciani/testingdocsify)
