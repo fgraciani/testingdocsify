@@ -1,5 +1,6 @@
 - Encoding
   - [Contact Information](encoding/Encoding-Contact-Information.md)
+
 - Basics
   - [Overview](basics/overview.md)
     - [Sub Topic](basics/requirements/sub-topic.md)
