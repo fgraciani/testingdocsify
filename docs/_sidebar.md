@@ -1,7 +1,15 @@
 - Introduction
+  - one
+  - two
 - General guidance
+  - one
+  - two
 - FIXM in support of FF-ICE
+  - one
+  - two
 - XML Samples
+  - one
+  - two
 - How-to guidance
   - How to create an Application Library
 - FIXM Components
