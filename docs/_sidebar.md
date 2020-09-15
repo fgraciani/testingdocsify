@@ -5,10 +5,12 @@
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
   - [FIXM Extensions](general-guidance/Understanding-FIXM-Extensions.md)
-  - General encoding rules
-    - [Contact Information](encoding/Encoding-Contact-Information.md)
-    - [Date Time](encoding/Encoding-Date-Time.md)
-    - [Relative Points](encoding/Encoding-Relative-Points.md)
+- General encoding rules
+  - [Contact Information](general-encoding-rules/Encoding-Contact-Information.md)
+  - [Date Time](general-encoding-rules/Encoding-Date-Time.md)
+  - [Geographical Positions](general-encoding-rules/Encoding-Geographical-positions.md)
+  - [References to ATS routes](general-encoding-rules/Encoding-references-to-(Enroute)-ATS-routes.md)
+  - [Relative Points](general-encoding-rules/Encoding-Relative-Points.md)
 - FIXM in support of FF-ICE
   - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
   - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
