@@ -1,9 +1,9 @@
-- Introduction
-- General guidance
+- **Introduction**
+- **General guidance**
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
   - [FIXM Extensions](general-guidance/Understanding-FIXM-Extensions.md)
-- General encoding rules
+- **General encoding rules**
   - [Contact Information](general-encoding-rules/Encoding-Contact-Information.md)
   - [Date Time](general-encoding-rules/Encoding-Date-Time.md)
   - [Geographical Positions](general-encoding-rules/Encoding-Geographical-positions.md)
@@ -19,11 +19,11 @@
     - [Generic hypertext references](general-encoding-rules/Generic-hypertext-references.md)
     - [References to Waypoints](general-encoding-rules/Encoding-references-to-Waypoints.md)
     - [References to Navaids](general-encoding-rules/Encoding-references-to-Navaids.md)
-- FIXM in support of FF-ICE
+- **FIXM in support of FF-ICE**
   - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
   - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
-- XML Samples
-- How-to guidance
+- **XML Samples**
+- **How-to guidance**
   - How to create an Application Library
 - **Project Documentation**
   - [ReadMe](https://github.com/fgraciani/testingdocsify)
