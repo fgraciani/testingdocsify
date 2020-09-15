@@ -10,6 +10,10 @@
   - [Date Time](general-encoding-rules/Encoding-Date-Time.md)
   - [Geographical Positions](general-encoding-rules/Encoding-Geographical-positions.md)
   - [References to ATS routes](general-encoding-rules/Encoding-references-to-(Enroute)-ATS-routes.md)
+  - [References to Aerodromes](general-encoding-rules/Encoding-references-to-Aerodromes.md)
+  - [References to Navaids](general-encoding-rules/Encoding-references-to-Navaids.md)
+  - [References to References to ATC Units](general-encoding-rules/Encoding-references-to-References-to-(ATC)-Units.md)
+  - [References to Runway Directions](general-encoding-rules/Encoding-references-to-Runway-Directions.md)
   - [Relative Points](general-encoding-rules/Encoding-Relative-Points.md)
 - FIXM in support of FF-ICE
   - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
