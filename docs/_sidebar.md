@@ -17,6 +17,11 @@
   - [References to SIDs and STARs](general-encoding-rules/Encoding-references-to-SIDs-and-STARs.md)
   - [References to Waypoints](general-encoding-rules/Encoding-references-to-Waypoints.md)
   - [Relative Points](general-encoding-rules/Encoding-Relative-Points.md)
+  - [Sequence numbers](general-encoding-rules/Encoding-Sequence-numbers.md)
+  - [Vertical Distances](general-encoding-rules/Encoding-Vertical-Distances.md)
+  - [References to published aeronautical information](general-encoding-rules/References-to-published-aeronautical-information.md)
+    - [Generic hypertext references](general-encoding-rules/Generic-hypertext-references.md)
+  
 - FIXM in support of FF-ICE
   - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
   - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
