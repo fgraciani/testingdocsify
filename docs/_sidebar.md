@@ -2,26 +2,20 @@
   - one
   - two
 - General guidance
-  - one
-  - two
+  - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
+  - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
+  - [FIXM Extensions](general-guidance/Understanding-FIXM-Extensions.md)
+  - General encoding rules
+    - [Contact Information](encoding/Encoding-Contact-Information.md)
+    - [Date Time](encoding/Encoding-Date-Time.md)
+    - [Relative Points](encoding/Encoding-Relative-Points.md)
 - FIXM in support of FF-ICE
-  - one
-  - two
+  - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
+  - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
 - XML Samples
   - one
   - two
 - How-to guidance
   - How to create an Application Library
-- FIXM Components
-  - [FIXM Core](understanding/Understanding-FIXM-Core.md)
-  - [FIXM Applications](understanding/Understanding-FIXM-Applications.md)
-  - [FIXM Extensions](understanding/Understanding-FIXM-Extensions.md)
-- FF-ICE
-  - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
-  - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
-- Encoding
-  - [Contact Information](encoding/Encoding-Contact-Information.md)
-  - [Date Time](encoding/Encoding-Date-Time.md)
-  - [Relative Points](encoding/Encoding-Relative-Points.md)
 - **Project Documentation**
   - [ReadMe](https://github.com/fgraciani/testingdocsify)
