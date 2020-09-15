@@ -3,6 +3,8 @@
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
   - [FIXM Extensions](general-guidance/Understanding-FIXM-Extensions.md)
+    - [Ignoring extension data](general-guidance/Ignoring-extension-data.md)
+  - [Using FIXM together with other exchange models](general-guidance/Using-FIXM-together-with-other-exchange-models.md)
 - **General encoding rules**
   - [Date Time](general-encoding-rules/Encoding-Date-Time.md)
   - [Geographical Positions](general-encoding-rules/Encoding-Geographical-positions.md)
@@ -21,9 +23,11 @@
   - [Vertical Distances](general-encoding-rules/Encoding-Vertical-Distances.md)
   - [Sequence numbers](general-encoding-rules/Encoding-Sequence-numbers.md)
   - [Contact Information](general-encoding-rules/Encoding-Contact-Information.md)
+  - [General rules for data correctness](general-encoding-rules/General-rules-for-data-correctness.md)
+  - [Rules for absent data](general-encoding-rules/Rules-for-absent-data.md)
 - **FIXM in support of FF-ICE**
-  - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
-  - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
+  - [FF-ICE Application for FIXM](FIXM-in-support-of-FF-ICE/Understanding-the-FFICE-Application-for-FIXM.md)
+  - [FF-ICE Release 1 Services](FIXM-in-support-of-FF-ICE/The-FFICE-Release-1-Services.md)
 - **XML Samples**
 - **How-to guidance**
   - How to create an Application Library
