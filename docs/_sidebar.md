@@ -1,6 +1,4 @@
 - Introduction
-  - one
-  - two
 - General guidance
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
@@ -25,8 +23,6 @@
   - [FF-ICE Application for FIXM](understanding/Understanding-the-FFICE-Application-for-FIXM.md)
   - [FF-ICE Release 1 Services](understanding/The-FFICE-Release-1-Services.md)
 - XML Samples
-  - one
-  - two
 - How-to guidance
   - How to create an Application Library
 - **Project Documentation**
