@@ -1,4 +1,7 @@
 - **Introduction**
+  - Purpose and content
+  - Applicable FIXM version
+  - Document terms
 - **General guidance**
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
@@ -29,7 +32,11 @@
   - [FF-ICE Application for FIXM](FIXM-in-support-of-FF-ICE/Understanding-the-FFICE-Application-for-FIXM.md)
   - [FF-ICE Release 1 Services](FIXM-in-support-of-FF-ICE/The-FFICE-Release-1-Services.md)
 - **XML Samples**
+  - FIXM XML Structural Overview
+  - FIXM Samples of ATS Messages for a Full Flight Life-Cycle
 - **How-to guidance**
   - How to create an Application Library
+  - How to create an FIXM Extension
+  - How to generate XML Schemas from a FIXM model using Sparx Enterprise Architect
 - **Project Documentation**
   - [FIXM.aero](https://fixm.aero/)
