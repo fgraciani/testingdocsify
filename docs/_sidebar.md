@@ -1,3 +1,9 @@
+- Introduction
+- General guidance
+- FIXM in support of FF-ICE
+- XML Samples
+- How-to guidance
+  - How to create an Application Library
 - FIXM Components
   - [FIXM Core](understanding/Understanding-FIXM-Core.md)
   - [FIXM Applications](understanding/Understanding-FIXM-Applications.md)
