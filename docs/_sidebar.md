@@ -1,7 +1,6 @@
 - **Introduction**
   - Purpose and content
   - Applicable FIXM version
-  - Document terms
 - **General guidance**
   - [FIXM Core](general-guidance/Understanding-FIXM-Core.md)
   - [FIXM Application Libraries](general-guidance/Understanding-FIXM-Applications.md)
